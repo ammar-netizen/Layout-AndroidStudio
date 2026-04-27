@@ -1,1 +1,1 @@
-Build an app that adding and open new activity using explicit intent. Other than that, it also list based layout with intent.
+Build an app that will display the application available based on list. After that, when user click the applicattion, it will redirect into that specific page.
